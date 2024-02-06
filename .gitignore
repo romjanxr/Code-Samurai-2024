@@ -1,0 +1,7 @@
+GUB_CODECRAFTERS.zip
+demo_task
+test_env
+__pycache__
+*.sqlite3
+readme.txt
+
